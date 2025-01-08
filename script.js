@@ -122,56 +122,56 @@ document.addEventListener('DOMContentLoaded', () => {
     const products = [
         {
             id: '1',
-            image: 'img/product1.jpg',
+            image: 'product1.jpg',
             name: 'Realme Note 50 (4/64) Smartphone',
             description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel reprehenderit vero temporibus ea. Labore unde enim aperiam odio nisi deserunt?',
             price: 10.00
         },
         {
             id: '2',
-            image: 'img/product2.jpg',
+            image: 'product2.jpg',
             name: 'Mr. Noodles Cup Magic Masala 40gm',
             description: 'Description for product 2',
             price: 15.00
         },
         {
             id: '3',
-            image: 'img/product3.jpg',
+            image: 'product3.jpg',
             name: 'Starship Full Cream Milk Powder - 1kg',
             description: 'Description for product 3',
             price: 20.00
         },
         {
             id: '4',
-            image: 'img/product4.webp',
+            image: 'product4.webp',
             name: 'Waterproof LED luminous Men Watch',
             description: 'Description for product 4',
             price: 25.00
         },
         {
             id: '5',
-            image: 'img/product5.webp',
+            image: 'product5.webp',
             name: 'Stainless Steel Analog Wrist Watch',
             description: 'Description for product 5',
             price: 30.00
         },
         {
             id: '6',
-            image: 'img/product6.webp',
+            image: 'product6.webp',
             name: 'Tenda F3 300mbps 3 Antennas Router',
             description: 'Description for product 6',
             price: 35.00
         },
         {
             id: '7',
-            image: 'img/product7.webp',
+            image: 'product7.webp',
             name: 'ONU Router with PON and Giga Port',
             description: 'Description for product 7',
             price: 40.00
         },
         {
             id: '8',
-            image: 'img/bike.webp',
+            image: 'bike.webp',
             name: 'Thriller 160R SD - Sports Red',
             description: 'Description for product 8',
             price: 45.00
